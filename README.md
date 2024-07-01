@@ -11,4 +11,4 @@
 * CSS
 
 ## Link:
-[https://joao-carmassi.github.io/Alura-Books/](https://joao-carmassi.github.io/Alura-Books/pagina%202/index.html)
+https://joao-carmassi.github.io/Cartas-Personagens/
