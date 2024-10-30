@@ -13,4 +13,4 @@
 * CSS
 
 ## Link:
-https://joao-carmassi.github.io/Cartas-Personagens/
+https://joao-carmassi.github.io/cartas-personagens/
